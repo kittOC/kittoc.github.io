@@ -1,7 +1,8 @@
 # FAQ page for kitt4sme Open Call projects
 
-1. How to get to the gist page
-use [this link](https://gist.github.com/t-h-e-m/21e39138f90bae3b07d4a148d3e5e207)
+**Q1. How to get to the gist page**
+
+**A1.** use [this link](https://gist.github.com/t-h-e-m/21e39138f90bae3b07d4a148d3e5e207)
 
 
 
