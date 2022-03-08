@@ -1,3 +1,15 @@
+# Welcome to kitt4sme's Open Call Projects
+
+We'll be using this github-organization for asynchronous interaction. 
+
+**--Jump over to [Discussions](https://github.com/kittOC/kittoc.github.io/discussions) to post a new question or review our FAQs.--** 
+
+We'll try to keep FAQs primarily for technical issues that may come-up on the way towards integration to the kitt4sme platform. 
+
+Don't worry! All other Project Management issues will be communicated to you on time, by your mentor and (more formally) via e-mail. Just to make sure that none of us misses out of the important stuff!
+
+
+<!---
 # FAQ page for kitt4sme Open Call projects
 
 **Q1. How to get to the gist page**
@@ -10,4 +22,4 @@
 ## How to use
 
 Andrea updates this page with **questions received by** the projects' **mentors**. He'll also create a secret `gist` and share the link here. This way you can still interact with him...asynchronously.
-
+-->
