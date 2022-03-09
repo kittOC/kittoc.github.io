@@ -2,7 +2,7 @@
 
 We'll be using this github-organization for asynchronous interaction. 
 
-**--Jump over to [Discussions](https://github.com/kittOC/kittoc.github.io/discussions) to post a new question or review our FAQs.--** 
+**--Jump over to [Discussions](https://github.com/kittOC/FAQs-and-Technical-issues/discussions) to post a new question or review our FAQs.--** 
 
 We'll try to keep FAQs primarily for technical issues that may come-up on the way towards integration to the kitt4sme platform. 
 
