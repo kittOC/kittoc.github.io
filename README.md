@@ -2,7 +2,8 @@
 
 We'll be using this github-organization for asynchronous interaction. 
 
-**--Jump over to [Discussions](https://github.com/kittOC/FAQs-and-Technical-issues/discussions) to post a new question or review our FAQs.--** 
+**--Jump over to [Discussions](https://github.com/kittOC/FAQs-and-Technical-issues/discussions) to review existing questions and FAQs.--**   
+If you want to ask a new question, you will need to create a new issue through your Project and assign it to your mentor. The mentor will take it to the technical team.
 
 We'll try to keep FAQs primarily for technical issues that may come-up on the way towards integration to the kitt4sme platform. 
 
