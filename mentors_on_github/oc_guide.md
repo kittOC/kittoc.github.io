@@ -50,9 +50,9 @@ describes how to add users to the repository.
         3. the `question` label is assigned to this task
         4. the OC-project team contacts the mentor (via e-mail or by assigning
            the task to the mentor)
-        5. the *mentor* assigns this task to the user: `c0c0n3` (or another user
+        5. the *mentor* assigns this task to the user
            from the project dev. team responsible for the selection and
-           prioritization of the questions)
+           prioritization of the questions
 - **What should happen after the issue has been assigned**: the user from the
   project dev. team brings the issue to the biweekly sprints of the dev. team
   and assigns it to a member of the dev. team. This member is responsible to
