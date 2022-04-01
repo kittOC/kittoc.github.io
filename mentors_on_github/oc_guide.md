@@ -9,11 +9,7 @@ to go through this repo (unless it helps with the question)
 
 ## Overview of the setup
 - **Why on Github**: Because our (project's) technical teams uses it to track
-  progress. You are welcome to take a look at the [technical
-  issues](https://github.com/users/c0c0n3/projects/1/views/1) our team is
-  working on and at [Andrea's
-  guide](https://github.com/users/c0c0n3/projects/1/views/1) on how they use it.
-  It is also common practice for software developers to use git-based tools
+  progress. It is also common practice for software developers to use git-based tools
   hosted by Github or Gitlab. The OC-teams are very likely to be already
   familiar with this approach.
 - **What are `issues`**: issues, for kitt4sme OC mentoring, serve two purposes:  
