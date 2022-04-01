@@ -10,6 +10,11 @@ We'll try to keep FAQs primarily for technical issues that may come-up on the wa
 Don't worry! All other Project Management issues will be communicated to you on time, by your mentor and (more formally) via e-mail. Just to make sure that none of us misses out of the important stuff!
 
 
+--- 
+
+Mentor lost? Check [this guide](./mentors_on_github/oc_guide.md)..
+
+
 <!---
 # FAQ page for kitt4sme Open Call projects
 
